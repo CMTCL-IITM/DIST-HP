@@ -1,0 +1,4 @@
+3.810000e+01 1.001424 1.000750 0.997827 cesium lead chloride 38_3_CsPbCl3_Pnma.xyz
+3.820000e+01 1.001425 1.000750 0.997827 cesium lead chloride 38_3_CsPbCl3_Pnma.xyz
+3.830000e+01 1.001424 1.000750 0.997827 cesium lead chloride 38_3_CsPbCl3_Pnma.xyz
+3.840000e+01 1.001425 1.000750 0.997827 cesium lead chloride 38_3_CsPbCl3_Pnma.xyz

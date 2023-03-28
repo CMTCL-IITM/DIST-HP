@@ -1,0 +1,14 @@
+sigma variance = 0.789871 
+sigma variance = 0.789867 
+sigma variance = 0.789880 
+sigma variance = 0.789877 
+octahedral_distortion = 0.000001 
+octahedral_distortion = 0.000001 
+octahedral_distortion = 0.000001 
+octahedral_distortion = 0.000001 
+theta_ab = 161.316968 
+theta_ab = 166.858912 
+theta_ab = 0.000000 
+theta_ab = 0.000000 
+theta_ab = 166.858912 
+theta_ab = 161.316968 

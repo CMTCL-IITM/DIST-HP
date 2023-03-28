@@ -1,0 +1,54 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_3
+
+_chemical_name_common                  'cesium lead chloride'
+_cell_length_a                         7.837(4)
+_cell_length_b                         11.1675(9)
+_cell_length_c                         7.841(3)
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           686.241918
+_space_group_name_H-M_alt              'P n m a'
+_space_group_IT_number                 62
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+   '-x, -y, -z'
+   '-x+1/2, -y, z+1/2'
+   'x+1/2, y, -z+1/2'
+   '-x, y+1/2, -z'
+   'x, -y+1/2, z'
+   'x+1/2, -y+1/2, -z+1/2'
+   '-x+1/2, y+1/2, z+1/2'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Pb1        1.0     0.000000     0.000000     0.000000    Uani  0.026867 Pb
+   Cs1        1.0     0.4788(7)    0.250000     0.0034(5)   Uani  0.072000 Cs
+   Cl2        1.0     0.2125(16)   0.0173(10)   0.2870(16)  Uani  0.083000 Cl
+   Cl3        1.0     0.001(2)    -0.250000     0.041(2)    Uani  0.072000 Cl
+
+loop_
+   _atom_site_aniso_label
+   _atom_site_aniso_U_11
+   _atom_site_aniso_U_22
+   _atom_site_aniso_U_33
+   _atom_site_aniso_U_12
+   _atom_site_aniso_U_13
+   _atom_site_aniso_U_23
+   Pb1	 0.02000  0.03060  0.03000 -0.00040  0.00010 -0.00090
+   Cs1	 0.05900  0.06900  0.08800  0.00000 -0.02070  0.00000
+   Cl2	 0.05300  0.12400  0.07200 -0.00600 -0.03800  0.00400
+   Cl3	 0.09000  0.02600  0.10000  0.00000 -0.00200  0.00000
